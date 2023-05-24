@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="/i00J~bkZFpd1WTgFjUE" x="0" y="0"></block><block type="device_forever" id="I.|P*4mG?6?/Si]@.f}$" x="304" y="2"></block><block type="basic_show_icon" id="8X4Wn4.w-6Jv0Yltf+5~" disabled="true" x="70" y="149"><field name="i">IconNames.LeftTriangle</field></block></xml>
